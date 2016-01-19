@@ -1,6 +1,8 @@
 # flapper-news
 MEAN application exercise.
 
+A simple application for posting titles and comments for each title. Upvoting of titles and comments is its main function.
+
 To get this running:
 
 1. Make sure MongoDB is running and NodeJS is installed.
